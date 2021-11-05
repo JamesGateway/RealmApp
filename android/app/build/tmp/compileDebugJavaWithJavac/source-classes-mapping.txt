@@ -1,0 +1,14 @@
+com/aameo/BuildConfig.java
+ com.aameo.BuildConfig
+com/aameo/ReactNativeFlipper.java
+ com.aameo.ReactNativeFlipper
+ com.aameo.ReactNativeFlipper$1
+ com.aameo.ReactNativeFlipper$2
+ com.aameo.ReactNativeFlipper$2$1
+com/aameo/MainActivity.java
+ com.aameo.MainActivity
+com/aameo/MainApplication.java
+ com.aameo.MainApplication
+ com.aameo.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
